@@ -1,4 +1,32 @@
+
+
 # wi-Q - PHP Backend Developer Test
+
+
+### Install Project
+    $ git clone https://github.com/khobbie/wi_q_assignment.git
+    $ cd wi_q_assignment
+    $ composer install
+    
+
+
+
+##
+##### Rename 'env.example' to '.env' and put in the correct data
+##### Set the BASE_URL value in the .env file
+
+##### The starting file is the 'index.php' file
+##### # Uncomment if you want run any functions in the 'index.php'
+##### # 
+##### # First run the the 'GET TOKEN' to get the auth_token
+# 
+ 
+
+    
+##
+
+
+## wi-Q - PHP Backend Developer Question
 
 The purpose of this test is to demonstrate your understanding of REST APIs and how you would orchestrate their consumption within an application. Please create the basics of a library using whichever tools you feel would be the most suitable to get the job done. We would prefer no specific framework, but if you have a good reason to use something, then feel free. We would also encourage the use of other packages that you deem useful.
 
@@ -89,4 +117,4 @@ Proof that the API request has been successful.
 
 ## When you're done
 
-Please zip up your solution and email it to both sam@wi-q.com and matt@wi-q.com.
+Please zip up your solution and email it.
